@@ -1,0 +1,23 @@
+{
+  "name": "mvc",
+  "version": "1.0.0",
+  "description": "Testando um modelo em mvc",
+  "main": "main.ts",
+  "scripts": {
+    "start": "ts-node main.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasGSSA/mvc.git"
+  },
+  "author": "Lucas Silveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasGSSA/mvc/issues"
+  },
+  "homepage": "https://github.com/LucasGSSA/mvc#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
