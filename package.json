@@ -4,7 +4,7 @@
   "description": "Testando um modelo em mvc",
   "main": "main.ts",
   "scripts": {
-    "start": "ts-node main.ts"
+    "start": "ts-node src/main.ts"
   },
   "repository": {
     "type": "git",

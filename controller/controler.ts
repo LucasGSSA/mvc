@@ -1,1 +1,0 @@
-import { Eletro } from "../model/model";
