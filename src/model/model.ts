@@ -3,7 +3,12 @@ export class Pessoa{
     public nome: string,
     public idade:number,
     public sexo: string,
+    public local: number = 0,
     ){};
+
+    mover(numero:number):void{
+      this.local += numero;
+    }
 
 };
 

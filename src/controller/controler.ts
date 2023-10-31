@@ -8,5 +8,10 @@ export class ControladorPessoa {
     this.view.apresentacao(this.conta);
     
   }
+
+  andar(numero: number){
+    this.conta.mover(numero);
+    this.view.localizacao(this.conta);
+  }
   
 }

@@ -9,4 +9,5 @@ const View = new VizualizadorPessoa();
 const cntrl1 = new ControladorPessoa(Eu,View);
 
 cntrl1.apresentar();
+cntrl1.andar(3);
 
